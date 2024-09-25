@@ -1,0 +1,10 @@
+Agenda
+
+1- Set up the GitHub{Repository}
+ a) new environment
+ b) setup.py
+ c) requirements.txt
+
+token pat: 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
+
+2 - Src
