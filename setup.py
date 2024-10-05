@@ -24,8 +24,6 @@ version= "0.0.1",
 author= "Souleymane",
 author_email= "souleymane.doudou.fall.gaye@gmail.com",
 packages= find_packages(),
-install_requires= get_requirements('requirements.txt'),
-
-
+install_requires= get_requirements('requirements.txt')
 
 )
